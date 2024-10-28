@@ -1,0 +1,12 @@
+int main() {
+    int x;
+    int y;
+    int product;
+
+    x = 6;
+    y = 7;
+    product = x * y;
+
+    return product; /* 얼마를 반환할까요 *이건 페이크 별이고 /이건 페이크 슬래시 /*가나다 **나다라 //하하 
+    하하핫*/
+}

@@ -1,0 +1,13 @@
+int main() {
+    int a; /* 변수 a 선언 */
+    int b; /* 변수 b 선언 */
+    int sum;
+
+    a = 5;
+    b = 10;
+
+    /* a와 b의 합을 계산 */
+    sum = a + b;
+
+    return sum; /* sum의 값을 반환 */
+}
